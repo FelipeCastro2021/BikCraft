@@ -50,7 +50,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-- [Visite o projeto online]([https://felipecastro2021.github.io/OnePiece-DevEmDobro])
+- [Visite o projeto online]()
 
 ## :memo: Licença
 
